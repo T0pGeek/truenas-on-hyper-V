@@ -6,7 +6,7 @@
  <h1>Instaling Truenas on Hyper-V</h1>
  </p>
 
- this tutorial will show you how to setup, and configure Windows and Truenas scale.
+ this tutorial will show you how to setup, and configure Truenas scale on Hyper-V.
 
  <h2>Prerequisites and installation of Truenas Scale on Hyper-V</h1>
 
