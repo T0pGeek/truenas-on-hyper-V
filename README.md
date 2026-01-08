@@ -3,9 +3,13 @@
  
  
  <p align="center"> 
- <h1>Instaling Truenas on Hyper-V
+ <h1>Instaling Truenas on Hyper-V</h1>
  </p>
 
- <h1>Prerequisites and installation of Truenas Scale on Hyper-V</h1>
--Windows pro edition
--Truenas scale ios downloded
+ this tutorial will show you how to setup, and configure Windows and Truenas scale.
+
+ <h2>Prerequisites and installation of Truenas Scale on Hyper-V</h1>
+
+- Windows 11/10 pro edition
+- Truenas Scale iso
+- extra storage space
