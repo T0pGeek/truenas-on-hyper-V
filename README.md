@@ -6,4 +6,6 @@
  <h1>Instaling Truenas on Hyper-V
  </p>
 
-
+ <h1>Prerequisites and installation of Truenas Scale on Hyper-V</h1>
+-Windows pro edition
+-Truenas scale ios downloded
