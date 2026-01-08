@@ -4,8 +4,6 @@
  
  <p align="center"> 
  <h1>Instaling Truenas on Hyper-V
-
-   
-</p>
+ </p>
 
 
