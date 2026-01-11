@@ -5,14 +5,14 @@
  <p align="center"> 
  <h1>Instaling Truenas on Hyper-V</h1>
  </p>
-  this tutorial will show you how to setup, and configure Truenas scale on Hyper-V.
+  this Tutorial will show you how to setup and configure TrueNAS Scale on Hyper-V.
  <h2>Video Demonstration</h2>
  https://youtu.be/vkGs64GSq6Q
  
 
  
 
- <h2>Prerequisites and installation of Truenas Scale on Hyper-V</h1>
+ <h2>Prerequisites and Installation of Truenas Scale on Hyper-V</h1>
 
 - Windows 11/10 pro edition
 - Truenas Scale iso
@@ -35,18 +35,18 @@ Launch Hyper-V and click on quick create.
 <p>
 <img width="816" height="482" alt="Media Player 1_5_2026 12_22_09 PM" src="https://github.com/user-attachments/assets/70aef570-c35e-4fbf-bd2d-24b750ce645f" />
 </p>
-<p>Click change instalation source.</p>
+<p>Click change instation source.</p>
 
 <p>
  <img width="1179" height="709" alt="Media Player 1_10_2026 6_55_56 PM" src="https://github.com/user-attachments/assets/ea0702f8-c632-4b96-b33c-60fcf3d2fc50" />
 </p>
-<p>Click on the Truenas Scale Iso.
+<p>Click on the TrueNAS Scale Iso.
 </p>
 
 <p>
  <img width="818" height="481" alt="Media Player 1_10_2026 6_59_24 PM" src="https://github.com/user-attachments/assets/d508d336-a57f-4fef-b321-d19a3abc9ab6" />
 </p>
-<p>Turn off Secure Boot Truenas will not boot if its on. </p>
+<p>Turn off Secure Boot TrueNAS will not boot if it's on. </p>
 
 <p>
  <img width="817" height="479" alt="Media Player 1_10_2026 7_02_48 PM" src="https://github.com/user-attachments/assets/4611b17a-5b65-45f5-90eb-1a13928fec17" />
