@@ -42,3 +42,8 @@ Launch Hyper-V and click on quick create.
 </p>
 <p>Click on the Truenas Scale Iso.
 </p>
+
+<p>
+ <img width="818" height="481" alt="Media Player 1_10_2026 6_59_24 PM" src="https://github.com/user-attachments/assets/d508d336-a57f-4fef-b321-d19a3abc9ab6" />
+</p>
+<p>Turn off Secure Boot Truenas will not boot if its on. </p>
