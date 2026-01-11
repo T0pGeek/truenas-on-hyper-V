@@ -47,3 +47,8 @@ Launch Hyper-V and click on quick create.
  <img width="818" height="481" alt="Media Player 1_10_2026 6_59_24 PM" src="https://github.com/user-attachments/assets/d508d336-a57f-4fef-b321-d19a3abc9ab6" />
 </p>
 <p>Turn off Secure Boot Truenas will not boot if its on. </p>
+
+<p>
+ <img width="817" height="479" alt="Media Player 1_10_2026 7_02_48 PM" src="https://github.com/user-attachments/assets/4611b17a-5b65-45f5-90eb-1a13928fec17" />
+</p>
+<p>Click Create Virtual Machine.</p>
