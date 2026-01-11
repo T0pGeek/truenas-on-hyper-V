@@ -24,3 +24,21 @@
 
 - Hyper-V
 - virtual Disk Drive
+
+<h2>Installation Steps</h2>
+
+<p>
+<img width="661" height="432" alt="Media Player 1_5_2026 12_20_17 PM" src="https://github.com/user-attachments/assets/bd523bfe-9b30-48a9-82e9-5d9e98407e82" /> </p>
+<p>
+Launch Hyper-V and click on quick create.
+</p>
+<p>
+<img width="816" height="482" alt="Media Player 1_5_2026 12_22_09 PM" src="https://github.com/user-attachments/assets/70aef570-c35e-4fbf-bd2d-24b750ce645f" />
+</p>
+<p>Click change instalation source.</p>
+
+<p>
+ <img width="1179" height="709" alt="Media Player 1_10_2026 6_55_56 PM" src="https://github.com/user-attachments/assets/ea0702f8-c632-4b96-b33c-60fcf3d2fc50" />
+</p>
+<p>Click on the Truenas Scale Iso.
+</p>
