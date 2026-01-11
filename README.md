@@ -52,3 +52,8 @@ Launch Hyper-V and click on quick create.
  <img width="817" height="479" alt="Media Player 1_10_2026 7_02_48 PM" src="https://github.com/user-attachments/assets/4611b17a-5b65-45f5-90eb-1a13928fec17" />
 </p>
 <p>Click Create Virtual Machine.</p>
+
+<p>
+ <img width="816" height="475" alt="Media Player 1_10_2026 7_21_43 PM" src="https://github.com/user-attachments/assets/0221e537-ea5f-490a-ba08-4e4ca05cff8b" />
+</p>
+<p>Click Edit settings.</p>
