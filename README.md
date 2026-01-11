@@ -18,4 +18,7 @@
 - Truenas Scale iso
 - extra storage space
   <h2>Oparating System Used</h2>
-  -Windows 11 Pro
+  - Windows 11 Pro
+<h2>Environments and Technologies Used</h2>
+- Hyper-V
+- virtual Disk Drive
