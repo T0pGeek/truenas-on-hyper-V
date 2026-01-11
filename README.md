@@ -16,7 +16,7 @@
 
 - Windows 11/10 pro edition
 - Truenas Scale iso
-- extra storage space
+- Extra storage space
 -  <h2>Oparating System Used</h2>
 - Windows 11 Pro
   
