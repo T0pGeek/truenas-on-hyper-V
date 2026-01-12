@@ -114,4 +114,15 @@ Launch Hyper-V and click on quick create.
 <p>Click Connect.</p>
 
 
+<p>
+ <img width="1093" height="725" alt="Media Player 1_12_2026 11_48_09 AM" src="https://github.com/user-attachments/assets/7ac28959-158c-42c7-9979-e250e76aa671" />
+</p>
+<p>Then This screen will pop up, and you want to press enter on"Start TrueNAS SCALE Installation".</p>
+
+<p>
+ <img width="1023" height="764" alt="New Virtual Machine on DESKTOP-SNHPQG7 - Virtual Machine Connection 12_28_2025 4_36_08 PM" src="https://github.com/user-attachments/assets/563a1f7b-d48e-4235-b626-22fd71684917" />
+</p>
+
+<p>Press Enter on"Install/Upgrade".</p>
+
 
