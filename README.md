@@ -70,3 +70,27 @@ Launch Hyper-V and click on quick create.
  <img width="715" height="688" alt="Media Player 1_12_2026 10_57_13 AM" src="https://github.com/user-attachments/assets/460415d4-37ac-439a-b3f0-ac08b68855e9" />
 </p>
 <p>Click New.</p>
+
+<p>
+ <img width="1169" height="699" alt="Media Player 1_12_2026 11_09_15 AM" src="https://github.com/user-attachments/assets/afbdb387-1d59-4f8e-a0ad-f06fb6af554d" />
+</p>
+<p>Make a New folder on the desired drive.</p>
+
+<p>
+ <img width="1165" height="701" alt="Media Player 1_12_2026 11_17_14 AM" src="https://github.com/user-attachments/assets/6d3417bc-c406-4c58-b468-e4ed7083aea7" />
+</p>
+<p>Then click open.</p>
+
+<p>
+ <img width="710" height="685" alt="Media Player 1_12_2026 11_28_58 AM" src="https://github.com/user-attachments/assets/aae4e084-775a-4e3e-9632-73a7425414eb" />
+</p>
+<p>Click apply.</p>
+
+<p>
+ <img width="712" height="681" alt="Media Player 1_12_2026 11_29_56 AM" src="https://github.com/user-attachments/assets/8cbfe09e-6063-4037-9eaa-984d586a00e7" />
+</p>
+<p>Then click OK.</p>
+
+<p>
+ <img width="1310" height="655" alt="Media Player 1_12_2026 11_26_21 AM" src="https://github.com/user-attachments/assets/a1d220bd-965b-417b-b518-54e7e0f6778c" />
+</p>
