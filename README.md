@@ -94,3 +94,24 @@ Launch Hyper-V and click on quick create.
 <p>
  <img width="1310" height="655" alt="Media Player 1_12_2026 11_26_21 AM" src="https://github.com/user-attachments/assets/a1d220bd-965b-417b-b518-54e7e0f6778c" />
 </p>
+<p>Right Click on you're Virtual Machine.</p>
+
+
+<p>
+ <img width="1293" height="665" alt="Media Player 1_12_2026 11_25_07 AM" src="https://github.com/user-attachments/assets/1be412bc-8689-451d-b430-e42f009d2b8d" />
+</p>
+<p>Click Start.</p>
+
+
+<p>
+ <img width="1310" height="655" alt="Media Player 1_12_2026 11_26_21 AM" src="https://github.com/user-attachments/assets/d9327140-ff67-45ea-a1ef-5206903bf1c6" />
+</p>
+<p>Right Click again.</p>
+
+<p>
+ <img width="1338" height="674" alt="Media Player 1_12_2026 11_43_57 AM" src="https://github.com/user-attachments/assets/4da55b0d-1648-4793-bffb-b2438ddd7a73" />
+</p>
+<p>Click Connect.</p>
+
+
+
