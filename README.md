@@ -23,7 +23,7 @@
  <h2>Environments and Technologies Used</h2>
 
 - Hyper-V
-- virtual Disk Drive
+- Virtual Disk Drive
 
 <h2>Installation Steps</h2>
 
@@ -35,7 +35,7 @@ Launch Hyper-V and click on quick create.
 <p>
 <img width="816" height="482" alt="Media Player 1_5_2026 12_22_09 PM" src="https://github.com/user-attachments/assets/70aef570-c35e-4fbf-bd2d-24b750ce645f" />
 </p>
-<p>Click change instation source.</p>
+<p>Click change installation source.</p>
 
 <p>
  <img width="1179" height="709" alt="Media Player 1_10_2026 6_55_56 PM" src="https://github.com/user-attachments/assets/ea0702f8-c632-4b96-b33c-60fcf3d2fc50" />
@@ -57,3 +57,16 @@ Launch Hyper-V and click on quick create.
  <img width="816" height="475" alt="Media Player 1_10_2026 7_21_43 PM" src="https://github.com/user-attachments/assets/0221e537-ea5f-490a-ba08-4e4ca05cff8b" />
 </p>
 <p>Click Edit settings.</p>
+
+<p>
+ <img width="711" height="671" alt="Media Player 1_12_2026 11_00_09 AM" src="https://github.com/user-attachments/assets/23d3eb22-9133-4c5a-8cac-2d5188ef2d7f" />
+</p>
+<p>Click Hard Drive.</p>
+
+
+
+
+<p>
+ <img width="715" height="688" alt="Media Player 1_12_2026 10_57_13 AM" src="https://github.com/user-attachments/assets/460415d4-37ac-439a-b3f0-ac08b68855e9" />
+</p>
+<p>Click New.</p>
