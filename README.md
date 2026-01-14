@@ -5,7 +5,7 @@
  <p align="center"> 
  <h1>Instaling Truenas on Hyper-V</h1>
  </p>
-  this Tutorial will show you how to setup and configure TrueNAS Scale on Hyper-V.
+  This tutorial will show you how to set up and configure TrueNAS Scale on Hyper-V.
  <h2>Video Demonstration</h2>
  https://youtu.be/vkGs64GSq6Q
  
@@ -30,12 +30,12 @@
 <p>
 <img width="661" height="432" alt="Media Player 1_5_2026 12_20_17 PM" src="https://github.com/user-attachments/assets/bd523bfe-9b30-48a9-82e9-5d9e98407e82" /> </p>
 <p>
-Launch Hyper-V and click on quick create.
+Launch Hyper-V and click on Quick Create.
 </p>
 <p>
 <img width="816" height="482" alt="Media Player 1_5_2026 12_22_09 PM" src="https://github.com/user-attachments/assets/70aef570-c35e-4fbf-bd2d-24b750ce645f" />
 </p>
-<p>Click change installation source.</p>
+<p>Click Change Installation Source.</p>
 
 <p>
  <img width="1179" height="709" alt="Media Player 1_10_2026 6_55_56 PM" src="https://github.com/user-attachments/assets/ea0702f8-c632-4b96-b33c-60fcf3d2fc50" />
@@ -94,7 +94,7 @@ Launch Hyper-V and click on quick create.
 <p>
  <img width="1310" height="655" alt="Media Player 1_12_2026 11_26_21 AM" src="https://github.com/user-attachments/assets/a1d220bd-965b-417b-b518-54e7e0f6778c" />
 </p>
-<p>Right Click on you're Virtual Machine.</p>
+<p> Right-click on your Virtual Machine.</p>
 
 
 <p>
@@ -117,12 +117,26 @@ Launch Hyper-V and click on quick create.
 <p>
  <img width="1093" height="725" alt="Media Player 1_12_2026 11_48_09 AM" src="https://github.com/user-attachments/assets/7ac28959-158c-42c7-9979-e250e76aa671" />
 </p>
-<p>Then This screen will pop up, and you want to press enter on"Start TrueNAS SCALE Installation".</p>
+<p>Then this screen will pop up, and you want to press enter on"Start TrueNAS SCALE Installation".</p>
 
 <p>
  <img width="1023" height="764" alt="New Virtual Machine on DESKTOP-SNHPQG7 - Virtual Machine Connection 12_28_2025 4_36_08 PM" src="https://github.com/user-attachments/assets/563a1f7b-d48e-4235-b626-22fd71684917" />
 </p>
-
 <p>Press Enter on"Install/Upgrade".</p>
+
+
+<p>>
+ <img width="1023" height="764" alt="Media Player 1_14_2026 8_37_57 AM" src="https://github.com/user-attachments/assets/2b5d631b-9498-4e65-aa14-c49b80f2b9ec" />
+</p>
+<p>Select the Virtual Disk you want to boot from.
+Make sure to choose the correct Virtual Disk to install to.</p>
+
+
+<p>
+ <img width="1025" height="767" alt="Media Player 1_14_2026 8_45_54 AM" src="https://github.com/user-attachments/assets/1eff2ab0-b08a-438d-8386-10b9f29f9785" />
+</p>
+<p>Once you choose the Virtual Disk, press the Space Bar and click Enter</p>
+
+
 
 
