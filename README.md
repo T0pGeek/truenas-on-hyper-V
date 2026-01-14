@@ -172,7 +172,10 @@ It will start installing TrueNAS.</p>
 
 <p>Next use the Arrow Keys and press enter on "Reboot System".</p>
 
-
+<p>
+ <img width="474" height="412" alt="Editing truenas-on-hyper-V_README md at main · T0pGeek_truenas-on-hyper-V - Brave 1_14_2026 9_31_22 AM" src="https://github.com/user-attachments/assets/6970a59f-360b-4ef9-818e-806715efad92" />
+</p>
+<p>Now TrueNAS Scale is up and running, But we need to configure it.</p>
 
 
 
