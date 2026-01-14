@@ -152,6 +152,13 @@ Make sure to choose the correct Virtual Disk to install to.</p>
 
 
 
+<p>
+ <img width="1018" height="765" alt="Media Player 1_14_2026 9_00_43 AM" src="https://github.com/user-attachments/assets/be5d6abe-0dad-44cd-9b9f-d9e836cb12e5" />
+</p>
+<p>Create a good Password, and make sure to remember it.
+You will use this Password to log in.</p>
+
+
 
 
 
