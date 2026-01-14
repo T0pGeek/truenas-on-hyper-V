@@ -135,7 +135,24 @@ Make sure to choose the correct Virtual Disk to install to.</p>
 <p>
  <img width="1025" height="767" alt="Media Player 1_14_2026 8_45_54 AM" src="https://github.com/user-attachments/assets/1eff2ab0-b08a-438d-8386-10b9f29f9785" />
 </p>
-<p>Once you choose the Virtual Disk, press the Space Bar and click Enter</p>
+<p>Once you choose the Virtual Disk, press the Space Bar and click Enter.</p>
+
+
+<p>
+ <img width="1020" height="760" alt="Media Player 1_14_2026 8_54_25 AM" src="https://github.com/user-attachments/assets/47384b04-3f0a-4291-ae11-34f2e16c667f" />
+</p>
+<p>Press Enter on Yes.</p>
+
+
+
+<p>
+ <img width="1018" height="764" alt="Media Player 1_14_2026 8_57_05 AM" src="https://github.com/user-attachments/assets/06fc614c-78d5-414e-a617-6d2c33229ec6" />
+</p>
+<p>Press Enter on "Administrative user (Truenas_admin)".</p>
+
+
+
+
 
 
 
