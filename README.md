@@ -156,7 +156,25 @@ Make sure to choose the correct Virtual Disk to install to.</p>
  <img width="1018" height="765" alt="Media Player 1_14_2026 9_00_43 AM" src="https://github.com/user-attachments/assets/be5d6abe-0dad-44cd-9b9f-d9e836cb12e5" />
 </p>
 <p>Create a good Password, and make sure to remember it.
-You will use this Password to log in.</p>
+You will use this Password to log in.
+It will start installing TrueNAS.</p>
+
+
+<p>
+ <img width="1020" height="762" alt="Media Player 1_14_2026 9_13_21 AM" src="https://github.com/user-attachments/assets/55629455-c336-4846-91ec-7de3b982a562" />
+</p>
+<p>The Intallation is complete; Press Enter. </p>
+
+
+<p>
+ <img width="1023" height="761" alt="Media Player 1_14_2026 9_00_43 AM png 1_14_2026 9_20_28 AM" src="https://github.com/user-attachments/assets/a43cbdad-24e3-4a5b-8d4a-ef06b5725211" />
+</p>
+
+<p>Next use the Arrow Keys and press enter on "Reboot System".</p>
+
+
+
+
 
 
 
