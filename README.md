@@ -190,6 +190,12 @@ It will start installing TrueNAS.</p>
 <p>Press Enter.</p>
 
 
+<p>
+ <img width="488" height="652" alt="Media Player 1_15_2026 8_46_51 AM png 1_15_2026 8_51_50 AM" src="https://github.com/user-attachments/assets/7b00d032-7802-4e34-aa31-be73a916df4f" />
+</p>
+<p>Type in "truenas_admin" for the Username, and the password you created earlier, and click Log In.</p>
+
+
 
 
 
