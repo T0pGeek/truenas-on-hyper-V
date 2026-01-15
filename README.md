@@ -170,12 +170,12 @@ It will start installing TrueNAS.</p>
  <img width="1023" height="761" alt="Media Player 1_14_2026 9_00_43 AM png 1_14_2026 9_20_28 AM" src="https://github.com/user-attachments/assets/a43cbdad-24e3-4a5b-8d4a-ef06b5725211" />
 </p>
 
-<p>Next use the Arrow Keys and press enter on "Reboot System".</p>
+<p>Next, use the Arrow Keys and press enter on "Reboot System".</p>
 
 <p>
  <img width="474" height="412" alt="Editing truenas-on-hyper-V_README md at main · T0pGeek_truenas-on-hyper-V - Brave 1_14_2026 9_31_22 AM" src="https://github.com/user-attachments/assets/6970a59f-360b-4ef9-818e-806715efad92" />
 </p>
-<p>Now TrueNAS Scale is up and running, But we need to configure it.</p>
+<p>Now TrueNAS Scale is up and running, but we need to configure it.</p>
 
 
 <p>
@@ -194,6 +194,13 @@ It will start installing TrueNAS.</p>
  <img width="488" height="652" alt="Media Player 1_15_2026 8_46_51 AM png 1_15_2026 8_51_50 AM" src="https://github.com/user-attachments/assets/7b00d032-7802-4e34-aa31-be73a916df4f" />
 </p>
 <p>Type in "truenas_admin" for the Username, and the password you created earlier, and click Log In.</p>
+
+
+<p>
+ <img width="3440" height="1247" alt="Captures - File Explorer 1_15_2026 9_08_26 AM" src="https://github.com/user-attachments/assets/0dc71dc9-77e5-4f68-84b0-232e353a2c44" />
+</p>
+<p>This is how you will configure/update your TrueNAS server.
+</p>
 
 
 
