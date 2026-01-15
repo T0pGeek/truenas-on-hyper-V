@@ -178,6 +178,17 @@ It will start installing TrueNAS.</p>
 <p>Now TrueNAS Scale is up and running, But we need to configure it.</p>
 
 
+<p>
+ <img width="594" height="541" alt="Media Player 10_11_2025 11_58_29 AM png 1_14_2026 9_28_46 AM" src="https://github.com/user-attachments/assets/90ba56b9-3b71-4b6d-8339-17a9b324c864" />
+</p>
+<p>Now type in the IP Address into your web browser. The IP Address will not be the same as shown in the image. </p>
+
+
+<p>
+ <img width="1309" height="720" alt="Media Player 1_15_2026 8_46_51 AM" src="https://github.com/user-attachments/assets/c158fedf-779b-4708-8e19-843a516cbe5e" />
+</p>
+<p>Press Enter.</p>
+
 
 
 
