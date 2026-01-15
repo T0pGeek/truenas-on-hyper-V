@@ -203,6 +203,12 @@ It will start installing TrueNAS.</p>
 </p>
 
 
+<p>
+ <img width="3440" height="1247" alt="Captures - File Explorer 1_15_2026 9_08_26 AM" src="https://github.com/user-attachments/assets/0301a725-d66b-4df0-aa4f-8577adbe1ca4" />
+</p>
+<p>Now we will set up a Storage Pool. Click on Storage.</p>
+
+
 
 
 
