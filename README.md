@@ -217,8 +217,13 @@ It will start installing TrueNAS.</p>
 <p>
  <img width="1714" height="735" alt="Media Player 1_18_2026 2_13_52 PM" src="https://github.com/user-attachments/assets/2cc8c265-f006-4aa7-8448-b75d72c1adb6" />
 </p>
-<p></p>
+<p>Create a Name and click next.</p>
 
+
+<p>
+ <img width="1550" height="987" alt="Media Player 1_18_2026 2_40_34 PM" src="https://github.com/user-attachments/assets/5b2b14e4-79f9-4d55-b68b-afb50e84f48f" />
+</p>
+<p>For the Layout click stripe, and click next.</p>
 
 
 
