@@ -209,6 +209,16 @@ It will start installing TrueNAS.</p>
 <p>Now we will set up a Storage Pool. Click on Storage.</p>
 
 
+<p>
+ <img width="631" height="243" alt="Media Player 1_18_2026 2_09_26 PM" src="https://github.com/user-attachments/assets/db579fdb-2e40-490e-b9c2-98c0718044ec" />
+</p>
+<p>Click "Create Pool".</p>
+
+<p>
+ <img width="1714" height="735" alt="Media Player 1_18_2026 2_13_52 PM" src="https://github.com/user-attachments/assets/2cc8c265-f006-4aa7-8448-b75d72c1adb6" />
+</p>
+<p></p>
+
 
 
 
