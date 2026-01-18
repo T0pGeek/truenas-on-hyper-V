@@ -227,6 +227,18 @@ It will start installing TrueNAS.</p>
 
 
 
+<p>
+ <img width="1216" height="617" alt="Media Player 1_18_2026 2_45_25 PM" src="https://github.com/user-attachments/assets/5992fa1a-f71d-480e-95f1-305d8383a116" />
+</p>
+<p>Under Disk Size, select the disk you want to use, and click next.</p>
+
+
+<p>
+ <img width="1931" height="698" alt="Media Player 1_18_2026 2_49_43 PM" src="https://github.com/user-attachments/assets/c334d845-a440-4707-a343-947f2a28b36e" />
+</p>
+<p>Click Next until you're at Review, and click Create Pool.</p>
+
+
 
 
 
