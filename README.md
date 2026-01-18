@@ -239,6 +239,12 @@ It will start installing TrueNAS.</p>
 <p>Click Next until you're at Review, and click Create Pool.</p>
 
 
+<p>
+ <img width="328" height="185" alt="Media Player 1_18_2026 2_54_35 PM" src="https://github.com/user-attachments/assets/10b19dff-7047-4f48-ba45-2de40d0dbdaf" />
+</p>
+<p>Click confirm and Continue.</p>
+
+
 
 
 
