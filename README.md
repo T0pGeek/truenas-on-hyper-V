@@ -245,6 +245,16 @@ It will start installing TrueNAS.</p>
 <p>Click confirm and Continue.</p>
 
 
+<p>
+ <img width="526" height="538" alt="Media Player 1_18_2026 2_57_30 PM" src="https://github.com/user-attachments/assets/290e7355-2ce0-4a54-9fa1-39052a5bf447" />
+</p>
+<p>Click Shaires.</p>
+
+<p><img width="1596" height="526" alt="Media Player 1_18_2026 2_59_36 PM" src="https://github.com/user-attachments/assets/c8620d32-bd6a-4163-aef8-e428b433d28f" /></p>
+
+<p>Click Add.</p>
+
+
 
 
 
