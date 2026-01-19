@@ -285,6 +285,16 @@ It will start installing TrueNAS.</p>
 <p> Then click Start.</p>
 
 
+<p>
+ <img width="433" height="525" alt="Media Player 1_18_2026 8_30_28 PM" src="https://github.com/user-attachments/assets/26cbd420-efec-4cb1-b388-cbe31d64fc4f" />
+</p>
+<p>Click on Credentials.</p>
+
+
+<P>
+ <img width="603" height="556" alt="Media Player 1_18_2026 8_32_52 PM" src="https://github.com/user-attachments/assets/f0ef5394-902b-4b7a-87c5-de142e2cfb3e" />
+</P>
+<p>Click Users.</p>
 
 
 
