@@ -267,5 +267,11 @@ It will start installing TrueNAS.</p>
 <p>Click on Create Dataset.</p>
 
 
+<p>
+ <img width="370" height="232" alt="Media Player 1_18_2026 8_04_42 PM" src="https://github.com/user-attachments/assets/69bc4c2f-dc08-4ae9-aceb-239fcdbe1fbf" />
+</p>
+<p>Name it, then click create.</p>
+
+
 
 
