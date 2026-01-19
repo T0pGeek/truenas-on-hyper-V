@@ -255,6 +255,17 @@ It will start installing TrueNAS.</p>
 <p>Click Add.</p>
 
 
+<p>
+ <img width="469" height="618" alt="Media Player 1_18_2026 7_57_12 PM" src="https://github.com/user-attachments/assets/c061dd95-b59d-4d39-b07f-1eabc63ffd91" />
+</p>
+<p>Select the Disk that you named.</p>
+
+
+<p>
+ <img width="473" height="618" alt="Media Player 1_18_2026 8_01_18 PM" src="https://github.com/user-attachments/assets/ce76c9c4-f3fb-4085-a538-9b1c224cb8a9" />
+</p>
+<p>Click on Create Dataset.</p>
+
 
 
 
