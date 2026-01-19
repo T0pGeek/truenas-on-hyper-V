@@ -296,6 +296,12 @@ It will start installing TrueNAS.</p>
 </P>
 <p>Click Users.</p>
 
+<p>
+ <img width="2001" height="905" alt="Media Player 1_18_2026 8_36_20 PM" src="https://github.com/user-attachments/assets/1c9d0226-7e67-4a2b-a1d3-57110834c729" />
+</p>
+<p>In the top right corner, click the "Add".</p>
+
+
 
 
 
