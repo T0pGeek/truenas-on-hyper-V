@@ -273,5 +273,19 @@ It will start installing TrueNAS.</p>
 <p>Name it, then click create.</p>
 
 
+<p>
+ <img width="462" height="793" alt="Media Player 1_18_2026 8_25_03 PM" src="https://github.com/user-attachments/assets/5fe96af4-e5bf-4ec8-99c1-be1f2e1f6667" />
+</p>
+<p>Click Save.</p>
+
+
+<p>
+ <img width="372" height="218" alt="Media Player 1_18_2026 8_26_52 PM" src="https://github.com/user-attachments/assets/44b3fdec-7d2b-4950-ab6c-282266403abb" />
+</p>
+<p> Then click Start.</p>
+
+
+
+
 
 
