@@ -303,5 +303,20 @@ It will start installing TrueNAS.</p>
 
 
 
+<p>
+ <img width="478" height="990" alt="Editing truenas-on-hyper-V_README md at main · T0pGeek_truenas-on-hyper-V - Brave 1_19_2026 7_19_33 PM" src="https://github.com/user-attachments/assets/de2dd293-4f94-468b-8e9a-3b7b87ebda84" />
+</p>
+<p>Type in a Username. You will use this same Username/Password to connect the NAS from your computer.</p>
+
+
+<p>
+ <img width="475" height="997" alt="Editing truenas-on-hyper-V_README md at main · T0pGeek_truenas-on-hyper-V - Brave 1_19_2026 7_24_49 PM" src="https://github.com/user-attachments/assets/57aea10c-4874-4088-9544-3e856fd6053f" />
+</p>
+<p>Type in a Password.</p>
+
+
+
+
+
 
 
