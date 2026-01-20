@@ -315,7 +315,16 @@ It will start installing TrueNAS.</p>
 <p>Type in a Password.</p>
 
 
+<p>
+ <img width="775" height="784" alt="Media Player 1_19_2026 7_34_03 PM" src="https://github.com/user-attachments/assets/e68be397-cc33-419b-97b2-98b07e43cf01" />
+</p>
+<p>Now we will connect to the NAS, first press the Windows key and type "\\" before your IP address, and press enter. </p>
 
+
+<p>
+ <img width="453" height="422" alt="Media Player 1_19_2026 7_35_38 PM" src="https://github.com/user-attachments/assets/e26ab6a0-c7c1-4d5f-9f1d-325c2884a9cf" />
+</p>
+<p>Now type in the Username/Password you created earlier and you connected to your NAS.</p>
 
 
 
