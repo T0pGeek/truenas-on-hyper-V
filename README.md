@@ -46,7 +46,7 @@ Launch Hyper-V and click on Quick Create.
 <p>
  <img width="818" height="481" alt="Media Player 1_10_2026 6_59_24 PM" src="https://github.com/user-attachments/assets/d508d336-a57f-4fef-b321-d19a3abc9ab6" />
 </p>
-<p>Turn off Secure Boot TrueNAS will not boot if it's on. </p>
+<p>Turn off Secure Boot. TrueNAS will not boot if it's on. </p>
 
 <p>
  <img width="817" height="479" alt="Media Player 1_10_2026 7_02_48 PM" src="https://github.com/user-attachments/assets/4611b17a-5b65-45f5-90eb-1a13928fec17" />
@@ -336,7 +336,6 @@ It will start installing TrueNAS.</p>
 <p>
  <img width="985" height="841" alt="Media Player 1_19_2026 7_35_38 PM png 1_19_2026 7_42_04 PM" src="https://github.com/user-attachments/assets/4c9109da-78e4-49b0-9272-bb4eba27bdad" />
 </p>
-<p>Now you can add whatever files you want onto it, and you can connect to it with any other device on your local network.
-The total is over.</p>
+<p>Now you can add whatever files you want onto it, and you can connect to it with any other device on your local network.</p>
 
 
