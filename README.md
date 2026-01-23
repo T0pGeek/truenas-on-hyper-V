@@ -336,6 +336,6 @@ It will start installing TrueNAS.</p>
 <p>
  <img width="985" height="841" alt="Media Player 1_19_2026 7_35_38 PM png 1_19_2026 7_42_04 PM" src="https://github.com/user-attachments/assets/4c9109da-78e4-49b0-9272-bb4eba27bdad" />
 </p>
-<p>Now you can add whatever files you want onto it, and you can connect to it with any other device on your local network.</p>
+<p> Finally, you can add whatever files you want onto it, and you can connect to it with any other device on your local network.</p>
 
 
