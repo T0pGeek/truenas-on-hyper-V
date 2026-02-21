@@ -3,7 +3,7 @@
  
  
  <p align="center"> 
- <h1>Instaling Truenas on Hyper-V</h1>
+ <h1>Installing TrueNAS on Hyper-V</h1>
  </p>
   This tutorial will show you how to set up and configure TrueNAS Scale on Hyper-V.
  <h2>Video Demonstration</h2>
