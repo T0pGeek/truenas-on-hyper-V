@@ -324,13 +324,13 @@ It will start installing TrueNAS.</p>
 <p>
  <img width="453" height="422" alt="Media Player 1_19_2026 7_35_38 PM" src="https://github.com/user-attachments/assets/e26ab6a0-c7c1-4d5f-9f1d-325c2884a9cf" />
 </p>
-<p>Now type in the Username/Password you created earlier and you connected to your NAS.</p>
+<p>Now type in the Username/Password you created earlier and you will be connected to your NAS.</p>
 
 
 <p>
  <img width="842" height="650" alt="Media Player 10_11_2025 11_58_29 AM png 1_19_2026 7_38_23 PM" src="https://github.com/user-attachments/assets/7db63ca3-82cf-4d9b-a645-9c21b8ebe67e" />
 </p>
-<P> double click the name of the folder you have.</P>
+<P> Double click the name of the folder you have.</P>
 
 
 <p>
