@@ -15,7 +15,7 @@
  <h2>Prerequisites and Installation of TrueNAS Scale on Hyper-V</h1>
 
 - Windows 11/10 pro edition
-- Truenas Scale iso
+- TrueNAS Scale ISO
 - Extra storage space
 -  <h2>Oparating System Used</h2>
 - Windows 11 Pro
